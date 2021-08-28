@@ -1,0 +1,5 @@
+In the DataBase Create 3 Tables named as 
+1.account_details --- this table holds the account details 
+2. security_questions --- this has the security questions assigned with each bank account
+3. transactions -- this table has all the transaction deails of the account 
+
